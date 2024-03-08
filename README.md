@@ -10,7 +10,7 @@ Hello! I'm Jessica, a fearless explorer navigating the realm of technology with 
           
           
 
-## Contacts:
+## Reach me:
 
 <div>
 <a href="https://www.linkedin.com/in/jessica-lopes-a2a5a245/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -19,7 +19,7 @@ Hello! I'm Jessica, a fearless explorer navigating the realm of technology with 
 
 Connect with me, and let's shape the future of technology together! 🌐😄
 
-<div>
+<br><div>
 <a href="https://github.com/jlopes07">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlopes07&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jlopes07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
